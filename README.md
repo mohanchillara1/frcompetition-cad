@@ -7,7 +7,7 @@ Overview
 
 My Role
 
--Collaborated with the mechanical subteam, where I specifically designed the intake and the elevator subsystems. I also learned how to create a drivebase for future competitions.
+Led and collaborated with the mechanical subteam, where I specifically designed the intake and the elevator subsystems. I also learned how to create a drivebase for future competitions. I additionally worked on the Intake and the Turret for the new 2026 FRC season.
 
 Design Goals
 
@@ -31,7 +31,7 @@ Engineering Constraints
 
 Key Design Decisions
 
--Selected Kraken x44s for increased amounts of torque and faster gear ratios rather than the standard NEO
+-Selected Kraken x60s and x44s for increased amounts of torque and faster gear ratios rather than the standard NEO
 
 -Designed frame geometry to increase stiffness without excessive weight
 
